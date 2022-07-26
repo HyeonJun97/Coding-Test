@@ -8,3 +8,4 @@
 ##### 22.07.19 스킬트리 (Programmers Lv2)
 ##### 22.07.20 영어 끝말잇기 (Programmers Lv2)
 ##### 22.07.25 짝지어 제거하기 (Programmers Lv2)
+##### 22.07.26 이진 변환 반복하기 (Programmers Lv2)
