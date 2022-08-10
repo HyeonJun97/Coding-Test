@@ -12,3 +12,4 @@
 ##### 22.08.01 피로도 (Programmers Lv2)
 ##### 22.08.02 방문길이 (Programmers Lv2)
 ##### 22.08.09 신고 결과 받기 (Programmers Lv1_Kakao)
+##### 22.08.10 점프와 순간 이동 (Programmers Lv2)
