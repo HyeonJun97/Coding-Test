@@ -20,3 +20,7 @@
 ##### 23.01.24 삼총사(Programmers Lv1)
 ##### 23.01.24 캐시(Programmers Lv2 Kakao)
 ##### 23.01.24 괄호 회전하기(Programmers Lv2 Kakao)
+##### 23.01.25 푸드 파이트 대회(Programmers Lv1)
+##### 23.01.25 연속 부분 수열의 합의 개수(Programmers Lv2)
+##### 23.01.25 주식 가격(Programmers Lv2)
+##### 23.01.25 할인 행사(Programmers Lv2)
